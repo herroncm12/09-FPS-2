@@ -1,2 +1,1 @@
-# Project-Template-Godot
-Created 3D FPS in Godot
+Move around and shoot to kill and avoid enemies.
